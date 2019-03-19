@@ -1,4 +1,4 @@
-var provinces = [{
+let provinces = [{
   "name": "北京市",
   "id": "110000"
 }, {
